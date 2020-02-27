@@ -1,0 +1,13 @@
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.exe
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csprojAssemblyReference.cache
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.deps.json
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.json
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.dev.json
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.pdb
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CopyComplete
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\jhfag\Desktop\Repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.pdb
